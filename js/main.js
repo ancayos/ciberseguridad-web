@@ -1,1 +1,1 @@
-
+$(function(){ $('#contacto').submit(function(e){e.preventDefault();alert('Formulario enviado');});});
